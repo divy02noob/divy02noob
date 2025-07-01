@@ -34,7 +34,7 @@
 
 ###
 <h1>I'm a passionate backend developer from India</h1>
-<p align="left">- I am a recent College Graduate<br>- I have a strong interest in MERN development<br>- Please visit my profile and view my repositories</p>
+<p align="left">- I am a recent College Graduate<br>- I have a strong interest in MERN development<br>- Please visit my profile and view my repositories<br></p>
 
 ###
 
