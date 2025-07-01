@@ -33,8 +33,8 @@
 </div>
 
 ###
-
-<p align="left">I'm a passionate backend developer from India<br><br>- I am a recent College Graduate<br>- I have a strong interest in MERN development<br>- Please visit my profile and view my repositories</p>
+<h1>I'm a passionate backend developer from India</h1>
+<p align="left"><br>- I am a recent College Graduate<br>- I have a strong interest in MERN development<br>- Please visit my profile and view my repositories</p>
 
 ###
 
