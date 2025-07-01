@@ -6,6 +6,10 @@
 
 ###
 
+<h1 align="center">Connect to me via following resources:</h1>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/divyannsshh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
