@@ -1,37 +1,7 @@
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anBkOXYwNHBwaWYzMWN3MmxmeWJrcmhmc251eTBmeGRsYXkzbTI2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h2LCfvk3XBlQxKyKWY/giphy.gif"  />
-</div>
-
-###
-
-<h1 align="center">Connect to me via following resources:</h1>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/divyannsshh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="40" alt="discord logo"  />
-  </a>
-  <a href="mailto:divyanshsr02@gmail.com?subject=Connection%20Request&body=Hi%20Divyansh!%20I%20would%20like%20to%20connect%20to%20you" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/divy_21b0121185" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="65" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.instagram.com/divyannsshh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=divy02noob.divy02noob&left_color=darkmagenta&right_color=darkmagenta&left_text=Users%20went%20by%20this%20profile:"  />
 </div>
 
 ###
@@ -41,6 +11,26 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/divyannsshh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="20" alt="discord logo"  />
+  </a>
+  <a href="mailto:divyanshsr02@gmail.com?subject=Connection%20Request&body=Hi%20Divyansh!%20I%20would%20like%20to%20connect%20to%20you" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="20" alt="gmail logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/divy_21b0121185" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="35" height="20" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.instagram.com/divyannsshh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="20" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
 
@@ -81,6 +71,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=divy02noob.divy02noob&left_color=darkmagenta&right_color=darkmagenta&left_text=Users%20went%20by%20this%20profile:"  />
+</div>
+
+###
 
 ###
 
